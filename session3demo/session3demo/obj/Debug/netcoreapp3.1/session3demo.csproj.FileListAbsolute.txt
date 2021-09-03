@@ -1,0 +1,134 @@
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.exe
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.deps.json
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.runtimeconfig.json
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.runtimeconfig.dev.json
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.pdb
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.csprojAssemblyReference.cache
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.AssemblyInfoInputs.cache
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.AssemblyInfo.cs
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.csproj.CoreCompileInputs.cache
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.MvcApplicationPartsAssemblyInfo.cache
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\staticwebassets\session3demo.StaticWebAssets.Manifest.cache
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\staticwebassets\session3demo.StaticWebAssets.xml
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\session3demo.styles.css
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.RazorTargetAssemblyInfo.cache
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.pdb
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.genruntimeconfig.cache
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.csproj.CopyComplete
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\work\software\summer trainning\session3\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.exe
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.deps.json
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.runtimeconfig.json
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.runtimeconfig.dev.json
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\session3demo.pdb
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.csprojAssemblyReference.cache
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.AssemblyInfoInputs.cache
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.AssemblyInfo.cs
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.csproj.CoreCompileInputs.cache
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.MvcApplicationPartsAssemblyInfo.cache
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\staticwebassets\session3demo.StaticWebAssets.Manifest.cache
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\staticwebassets\session3demo.StaticWebAssets.xml
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\scopedcss\bundle\session3demo.styles.css
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.RazorTargetAssemblyInfo.cache
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.csproj.CopyComplete
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.pdb
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.genruntimeconfig.cache
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\internships\se\Session 3 - ASP.net\demo\session3demo\session3demo\obj\Debug\netcoreapp3.1\session3demo.MvcApplicationPartsAssemblyInfo.cs
